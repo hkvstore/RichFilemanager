@@ -1,6 +1,6 @@
 {
   "name": "rich-filemanager",
-  "version": "2.7.6",
+  "version": "2.8.1",
   "description": "Highly customizable open-source file manager",
   "main": "scripts/filemanager.js",
   "repository": {
@@ -31,9 +31,5 @@
     "grunt-sass": "^2.1.0",
     "npm-run-all": "^4.0.2",
     "uglify-js": "^3.0.27"
-  },
-  "dependencies": {
-    "node-sass": "^4.9.0",
-    "sass": "^1.0.0-beta.5.3"
   }
 }
