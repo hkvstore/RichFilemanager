@@ -25,6 +25,6 @@
     "vendor-dir": "connectors/php/vendor"
   },
   "require": {
-    "hkvstore/richfilemanager-php": "~2.2.0"
+    "hkvstore/richfilemanager-php": "~2.2.0-beta.1"
   }
 }
