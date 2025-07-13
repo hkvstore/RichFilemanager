@@ -17,14 +17,26 @@
     {
       "name": "Pavel Solomienko",
       "email": "servocoder@gmail.com",
-      "homepage": "http://fm.devale.pro",
       "role": "Developer"
     }
   ],
-  "config": {
-    "vendor-dir": "connectors/php/vendor"
-  },
   "require": {
     "hkvstore/richfilemanager-php": "~2.2.0"
+  },
+  "extra": {
+    "component": {
+      "files": [
+        "index.html"
+      ],
+      "folders": [
+        "config",
+        "images",
+        "languages",
+        "libs",
+        "src",
+        "themes",
+        "userfiles"
+      ]
+    }
   }
 }

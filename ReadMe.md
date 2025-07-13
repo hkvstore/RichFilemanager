@@ -19,7 +19,7 @@ Based on the @simogeo [Filemanager](https://github.com/simogeo/Filemanager), wit
 * Online MS Office documents viewer - based on Google Docs Viewer
 * Extended list of previewed file types via ViewerJS
 * New viewers to preview: "html" files (iframe), "md" files (markdown-it), etc.
-* CodeMirror editor now compatible with most of viewers 
+* CodeMirror editor now compatible with most of viewers
 * Standardized API that follows JSON API best practices to create connectors for any server-side language
 * Independent client and server sides. Can be located on different servers.
 * Independent configuration files for client and server sides.
@@ -32,23 +32,11 @@ Based on the @simogeo [Filemanager](https://github.com/simogeo/Filemanager), wit
 To see the full list check out [changelog file](https://github.com/servocoder/RichFilemanager/blob/master/changelog).
 
 
-Demo
-----
+Browser Compatibility
+---------------------
 
-Filemanager live example: http://fm.devale.pro
-
-
-Compatibility
--------------
-
-Filemanager is designed to interact with a number of programming languages via [connectors](https://github.com/servocoder/RichFilemanager/tree/master/connectors).
-The actual connectors are: **PHP, Java, ASHX, ASP, NodeJs & Python 3 Flask**.
-You are still able you to download unsupported v0.8 from [archive](https://github.com/simogeo/Filemanager/archive/v0.8.zip) (CFM, lasso, PL, JSP and Python WSGI)
-
-Browser compatibility:
-
-* IE9+
 * Chrome
+* Edge
 * FireFox
 * Opera
 
@@ -106,12 +94,6 @@ Main features
 * Copy direct file URL
 * [CSS Themes](https://github.com/servocoder/RichFilemanager/wiki/Create-your-own-theme) - **Please, share your themes with others !**
 * and more ...
-
-
-Screenshot
--------------
-
-![Filemanager Screenshot](http://image.prntscr.com/image/36ed7f7531454f75b5462764f02b2cbd.png)
 
 
 Contribution
