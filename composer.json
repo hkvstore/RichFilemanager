@@ -21,7 +21,7 @@
     }
   ],
   "require": {
-    "hkvstore/richfilemanager-php": "~2.3.0"
+    "hkvstore/richfilemanager-php": "~2.4.0"
   },
   "extra": {
     "component": {
